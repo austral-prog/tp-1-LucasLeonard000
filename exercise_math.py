@@ -1,6 +1,6 @@
 def math():
-    a = 57
-    b = 7
+    f1 = 57
+    f2 = 7
     print(f1 + f2)
     print(f1 - f2)
     print((f1+f2)/2)
